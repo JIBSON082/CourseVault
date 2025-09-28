@@ -1,1 +1,19 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
 
+.gradient-bg {
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+}
+
+.gold-text {
+  color: #facc15;
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 20px rgba(250, 204, 21, 0.6);
+}
+
+.section-divider {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
